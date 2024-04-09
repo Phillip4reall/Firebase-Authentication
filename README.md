@@ -1,6 +1,6 @@
-# firebase_login
+# firebase_Auth
 
-A new Flutter project.
+firebase authentication repository.
 
 ## Getting Started
 
